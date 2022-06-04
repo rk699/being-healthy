@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/blogwebsite",
+    "prod_uri":"mysql://root:@localhost/blogwebsite",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blogName": "Being Healthy",
+    "tagLine": "Health Tips for Indians",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_blogs": 3,
+    "adminuser": "rishav",
+    "adminpass": "easycoding"
+  }
+}
